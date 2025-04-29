@@ -1,4 +1,4 @@
 export type listing = {
-    price: number,
-    amount: number,
+    price: number
+    amount: number
 }
