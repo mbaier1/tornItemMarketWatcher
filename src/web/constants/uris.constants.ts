@@ -1,3 +1,1 @@
-
-
-export const tornBaseUri = 'https://api.torn.com/v2';
+export const tornBaseUri = 'https://api.torn.com/v2'
